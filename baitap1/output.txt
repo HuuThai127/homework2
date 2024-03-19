@@ -1,0 +1,2 @@
+Student [MSV=12, name=t, gender=nam, pypoint=5.0, japoint=4.0, avg=4.333333333333333, result=Truot]
+Student [MSV=23, name=r, gender=nu, pypoint=5.0, japoint=4.0, avg=4.333333333333333, result=Dau]
